@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">
-  Oie  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Eu sou o <i>Giovanni Trevisan</i>!</h1>
+  Oie, Eu sou o <i>Giovanni Trevisan</i>!</h1>
 <h3 align="center">Sou apenas +1 apaixonado por Desenvolvimento e Tecnologia 😁</h3>
 <br>
 
