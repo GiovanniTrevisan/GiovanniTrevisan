@@ -1,107 +1,248 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- ════════════════════════════════════════════════════════════════
+     HEADER — onda animada com gradiente da paleta
+     ════════════════════════════════════════════════════════════════ -->
+<a name="top"></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:123458,100:f4692e&height=220&section=header&text=Giovanni%20B.%20Trevisan&fontSize=52&fontColor=F6F8FC&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%E2%80%A2%20.NET%20%E2%80%A2%20Backend%20%E2%80%A2%20Distributed%20Systems&descAlignY=58&descSize=15&descColor=F6F8FC" alt="banner"/>
 
-<h1 align="center">
-  Oie, Eu sou o <i>Giovanni Trevisan</i>!</h1>
-<h3 align="center">Sou apenas +1 apaixonado por Desenvolvimento e Tecnologia 😁</h3>
-<br>
-
-### 🙋‍♂️ Sobre mim
-
-- 🔭 Atualmente trabalho com *C# .NET* 
-- 🌱 Estou estudando para me tornar um *Desenvolvedor de Games* me especializando na *Unity Engine*
-- 😄 Pronomes: *Ele/Dele*
-
-<br>
-
- ### 📊 Meu Github Stats
-  <div>
-    <a href="https://github.com/GiovanniTrevisan/github-readme-stats"><img alt="Giovanni Trevisan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GiovanniTrevisan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/GiovanniTrevisan/github-readme-stats"><img alt="Giovanni Trevisan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniTrevisan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  </div>
-  <b>PS:</b> As principais linguagens são apenas uma métrica das linguagens em que meu código público consiste e não reflete a experiência ou o nível de habilidade. 
-  <br>
-  <br><br>
-  
-  <div>
-  <p align="center">
-    <a href="https://github.com/GiovanniTrevisan/github-readme-streak-stats">
-        <img alt="Giovanni Trevisan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GiovanniTrevisan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<!-- ════════════════════════════════════════════════════════════════
+     TYPING — efeito de digitação com a cor laranja
+     ════════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=F4692E&center=true&vCenter=true&width=720&lines=7%2B+anos+em+sistemas+que+n%C3%A3o+podem+cair+%E2%9A%A1;Banking+%7C+Governo+%7C+Alta+Criticidade;Clean+Architecture+%7C+DDD+%7C+CQRS+%7C+Azure;Fundador+da+Trevizzo+Solu%C3%A7%C3%B5es+%F0%9F%9A%80;Ultrawide+3440x1440%2C+caf%C3%A9+e+bons+logs+%E2%98%95" alt="typing"/>
 </p>
 
 <br>
 
+<!-- ════════════════════════════════════════════════════════════════
+     TERMINAL ABOUT — identidade em estilo CLI
+     ════════════════════════════════════════════════════════════════ -->
 
-  ## 🚀 Linguagens & Ferramentas
+```bash
+$ giovanni --about
 
-<p align="left"> 
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
-    <img src="https://img.icons8.com/color/48/000000/git.png"/> 
-    <img src="https://img.icons8.com/fluency/50/000000/unity.png"/>
+  Name     →  Giovanni B. Trevisan
+  Role     →  Senior Software Engineer · Engineering Analyst II
+  Company  →  Valid S.A.  ·  Sistema nacional de emissão de documentos
+  Venture  →  Trevizzo Soluções  ·  Fundador
+  Location →  Barueri / Alphaville, SP — Brasil 🇧🇷
+  Stack    →  C# · .NET 8 · Azure · RabbitMQ · DDD · CQRS
+  MBA      →  FIAP São Paulo
+  Setup    →  Ultrawide 3440×1440 · RTX 2070 Super · Ryzen 7 3700X
+  Coffee   →  Obrigatório. Preto. Antes de qualquer commit. ☕
+
+$ giovanni --status
+
+  [◉] 7+ anos em produção — zero downtime no que realmente importa
+  [◉] Sistemas bancários e governamentais — SLA sem margem para falha
+  [◉] Sempre estudando: Event Sourcing · Outbox Pattern · K8s HPA · YARP
+  [◉] Trevizzo Soluções: 🟢 ativa e crescendo
+  [○] Dormindo  (ocasionalmente)
+```
+
+<br>
+
+<!-- ════════════════════════════════════════════════════════════════
+     MENU INTERATIVO — cada bloco abre/fecha ao clicar
+     ════════════════════════════════════════════════════════════════ -->
+<h2>🕹️ Menu Principal — clica nas seções abaixo</h2>
+<p><i>Tudo é interativo. Abre o que te interessa.</i></p>
+
+<details>
+<summary><b>🎯 &nbsp;Me conheça em 60 segundos</b></summary>
+<br>
+
+> Sem filtro de RH. Respostas reais.
+
+|  | Pergunta | Resposta |
+|:---:|:---|:---|
+| ☕ | Pré-requisito antes de qualquer commit? | Café preto. Não existe PR sem ele. |
+| 🐛 | Técnica de debug favorita? | Explico o bug em voz alta pra mim mesmo. Geralmente me respondo antes de terminar. |
+| 🧱 | Tabs ou Spaces? | 4 espaços. Não é negociável. |
+| 🏗️ | Monolito ou Microsserviços? | Microsserviços — mas com fronteiras de domínio respeitadas. Microsserviço sem DDD é monolito distribuído. |
+| 🎮 | Fora do código? | Gaming em ultrawide + analisando FIIs, ETFs e ações na B3. |
+| 🌙 | Às 3h com alerta em produção? | Terminal aberto, café na mão, foco total. Sempre. |
+| 🔥 | Maior responsabilidade técnica? | Um sistema de emissão de documentos que serve bancos e o governo federal. O SLA não perdoa. |
+| 🤔 | Por que Clean Architecture? | Porque na hora de manutenção a gente agradece. Já herdei código sem ela — não quero ser o próximo a deixar. |
+| 🚀 | Próximo projeto open-source? | Ecossistema de microsserviços .NET 8 — DDD + CQRS + Outbox + RabbitMQ + Docker + GitHub Actions. |
+| 🏆 | Conquista não técnica favorita? | Fundar a Trevizzo Soluções enquanto trabalhava em tempo integral. |
+
+</details>
+
+<details>
+<summary><b>🧙‍♂️ &nbsp;Ficha do Engenheiro</b></summary>
+<br>
+<table>
+  <tr><td><b>Classe</b></td><td>Senior Backend Engineer 🛡️</td></tr>
+  <tr><td><b>Especialização</b></td><td>Sistemas distribuídos em .NET / Azure</td></tr>
+  <tr><td><b>Subclasse</b></td><td>Founder — Trevizzo Soluções</td></tr>
+  <tr><td><b>Nível</b></td><td>7+ anos de produção real</td></tr>
+  <tr><td><b>HP</b></td><td>██████████ Alto (com café preto na veia)</td></tr>
+  <tr><td><b>Mana</b></td><td>██████████ Infinita pra Clean Architecture</td></tr>
+  <tr><td><b>Resistência a alerta às 3h</b></td><td>██████████ Imune</td></tr>
+  <tr><td><b>Fraqueza</b></td><td>Código sem testes em sistema crítico 😬</td></tr>
+</table>
+</details>
+
+<details>
+<summary><b>🛠️ &nbsp;Stack Completa</b></summary>
+<br>
+
+```
+┌─ Backend ──────────────────────────────────────────────────────────────┐
+│  C# · .NET 8 · ASP.NET Core · Entity Framework Core · Minimal APIs    │
+├─ Arquitetura ──────────────────────────────────────────────────────────┤
+│  DDD · CQRS · Clean Architecture · Microsserviços · Event Sourcing    │
+│  Outbox Pattern · Saga · SOLID                                         │
+├─ Mensageria & Integração ──────────────────────────────────────────────┤
+│  RabbitMQ · MassTransit · Azure Service Bus                            │
+├─ Cloud & DevOps ───────────────────────────────────────────────────────┤
+│  Azure (AKS · App Services · Functions · Service Bus · Blob Storage)  │
+│  Docker · Kubernetes · GitHub Actions · Azure DevOps                  │
+├─ Bancos de Dados ──────────────────────────────────────────────────────┤
+│  SQL Server · PostgreSQL · Redis                                       │
+├─ Qualidade & Observabilidade ──────────────────────────────────────────┤
+│  xUnit · FluentAssertions · Testcontainers · Serilog · OpenTelemetry  │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-123458?style=for-the-badge&logo=csharp&logoColor=F6F8FC"/>
+  <img src="https://img.shields.io/badge/.NET%208-f4692e?style=for-the-badge&logo=dotnet&logoColor=F6F8FC"/>
+  <img src="https://img.shields.io/badge/Azure-123458?style=for-the-badge&logo=microsoftazure&logoColor=F6F8FC"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-f4692e?style=for-the-badge&logo=rabbitmq&logoColor=F6F8FC"/>
+  <img src="https://img.shields.io/badge/Docker-123458?style=for-the-badge&logo=docker&logoColor=F6F8FC"/>
+  <img src="https://img.shields.io/badge/Kubernetes-f4692e?style=for-the-badge&logo=kubernetes&logoColor=F6F8FC"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-123458?style=for-the-badge&logo=microsoftsqlserver&logoColor=F6F8FC"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-f4692e?style=for-the-badge&logo=postgresql&logoColor=F6F8FC"/>
+  <img src="https://img.shields.io/badge/Redis-123458?style=for-the-badge&logo=redis&logoColor=F6F8FC"/>
 </p>
-  
-  <br/>
-<br/>
 
-  ##
-  
-<a href="https://github.com/GiovanniTrevisan/github-readme-activity-graph"><img alt="Giovanni Trevisan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GiovanniTrevisan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</details>
 
-<br/>
-<br/>
-  
-  
-## 📱 Contato e Social Media
-  
-<div> 
-    <a href="https://www.linkedin.com/in/giovanni-trevisan-ab609514a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.instagram.com/gitrevizzo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E53F3F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <a href="https://twitter.com/Trevizzo194" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gitrevizzo194@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://giovannitrevizzo.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-3A3A3A?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
+<details>
+<summary><b>🎲 &nbsp;Duas Verdades & Uma Mentira</b></summary>
+<br>
 
- 
-</div>
-  <br>
- 
-  
-  ## 💻 Workspace Spec
-  <div> 
-    <img src="https://img.shields.io/badge/NVIDIA-GTX2070%20SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white" target="_blank">
-    <img src="https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" target="_blank">
-    <img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank">
- 
-</div>
-  
-  <br>
-  <br>
-  <br>
-  
-  ## ❤ Views and Followers
-<a href="https://github.com/GiovanniTrevisan/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=GiovanniTrevisan">
-</a>
-<a href="https://github.com/GiovanniTrevisan?tab=followers"><img src="https://img.shields.io/github/followers/GiovanniTrevisan?label=Followers&style=social" alt="GitHub Badge"></a>
-<!--
+Tenta adivinhar **qual das três é mentira** antes de abrir o spoiler 👇
 
-**GiovanniTrevisan/GiovanniTrevisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+> **1.** Já recebi alerta de produção às 3h da manhã e resolvi sem sair da cama  
+> **2.** Fundei a Trevizzo Soluções num final de semana, entre dois sprints  
+> **3.** Tomo café com leite e açúcar pra programar de manhã  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br>
 
--->
+<details>
+<summary>👀 &nbsp;<i>Clica aqui pra ver a resposta…</i></summary>
+<br>
+
+🟠 **A mentira é a #3** — Café **preto**, sempre. Açúcar quebra a concentração.
+
+</details>
+
+</details>
+
+<details>
+<summary><b>🎯 &nbsp;Side Quests (em andamento)</b></summary>
+<br>
+
+- [x] 7+ anos em sistemas críticos sem downtime grave
+- [x] Conclusão do MBA na FIAP
+- [x] Trevizzo Soluções no ar e crescendo
+- [ ] Publicar o ecossistema de microsserviços .NET 8 open source
+- [ ] Falar em um meetup de arquitetura sobre Outbox + CQRS na prática
+- [ ] Mentoria estruturada — passar pra frente o que aprendi em banking/gov
+
+</details>
+
+<details>
+<summary><b>💻 &nbsp;Workspace / Setup</b></summary>
+<br>
+
+![Monitor](https://img.shields.io/badge/Ultrawide-3440%C3%971440-123458?style=for-the-badge&logo=lg&logoColor=F6F8FC)
+![GPU](https://img.shields.io/badge/NVIDIA-RTX%202070%20Super-f4692e?style=for-the-badge&logo=nvidia&logoColor=F6F8FC)
+![CPU](https://img.shields.io/badge/AMD-Ryzen%207%203700X-123458?style=for-the-badge&logo=amd&logoColor=F6F8FC)
+![OS](https://img.shields.io/badge/Windows-f4692e?style=for-the-badge&logo=windows&logoColor=F6F8FC)
+![Editor](https://img.shields.io/badge/Rider-123458?style=for-the-badge&logo=rider&logoColor=F6F8FC)
+
+</details>
+
+<details>
+<summary><b>🔓 &nbsp;Easter Egg — só pra quem chegou até aqui</b></summary>
+<br>
+
+🏆 **Achievement Unlocked: "Curioso até o fim"** &nbsp;⭐  
+*+50 XP de relacionamento com o Gio*
+
+<br>
+
+Se tu chegou até aqui lendo de verdade, manda um **🎮** no meu LinkedIn — assim eu sei que veio do README e o papo já começa com café na mesa ☕
+
+</details>
+
+<br>
+
+<!-- ════════════════════════════════════════════════════════════════
+     ESTATÍSTICAS DE COMBATE
+     ════════════════════════════════════════════════════════════════ -->
+<h2>📊 Estatísticas de combate</h2>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GiovanniTrevisan&show_icons=true&count_private=true&hide_border=true&title_color=f4692e&icon_color=f4692e&text_color=123458&bg_color=F6F8FC" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniTrevisan&layout=compact&langs_count=8&count_private=true&hide_border=true&title_color=f4692e&text_color=123458&bg_color=F6F8FC" alt="top-langs"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GiovanniTrevisan&hide_border=true&background=F6F8FC&stroke=123458&ring=f4692e&fire=f4692e&currStreakLabel=123458&sideLabels=123458&currStreakNum=123458&sideNums=123458&dates=123458" alt="streak"/>
+</p>
+
+<!-- ─── Snake animation ────────────────────────────────────────────
+     Requer GitHub Action. Cria o arquivo .github/workflows/snake.yml
+     no repo GiovanniTrevisan/GiovanniTrevisan apontando pra branch
+     "output". Sem isso o gif fica quebrado.
+     ─────────────────────────────────────────────────────────────── -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GiovanniTrevisan/GiovanniTrevisan/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+<br>
+
+<!-- ════════════════════════════════════════════════════════════════
+     CONTATO
+     ════════════════════════════════════════════════════════════════ -->
+<h2>📡 Onde me encontrar</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gitrevizzo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-123458?style=for-the-badge&logo=linkedin&logoColor=F6F8FC" alt="linkedin"/>
+  </a>
+  &nbsp;
+  <a href="https://trevizzosolucoes.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Trevizzo_Solu%C3%A7%C3%B5es-f4692e?style=for-the-badge&logo=firefoxbrowser&logoColor=F6F8FC" alt="trevizzo"/>
+  </a>
+  &nbsp;
+  <a href="mailto:gitrevizzo194@gmail.com">
+    <img src="https://img.shields.io/badge/Email-123458?style=for-the-badge&logo=gmail&logoColor=F6F8FC" alt="email"/>
+  </a>
+  &nbsp;
+  <a href="https://giovannitrevizzo.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/itch.io-f4692e?style=for-the-badge&logo=itchdotio&logoColor=F6F8FC" alt="itch"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GiovanniTrevisan&label=Visitas%20no%20perfil&color=f4692e&style=for-the-badge" alt="views"/>
+  <a href="https://github.com/GiovanniTrevisan?tab=followers">
+    <img src="https://img.shields.io/github/followers/GiovanniTrevisan?label=Followers&style=for-the-badge&color=123458&labelColor=f4692e" alt="followers"/>
+  </a>
+</p>
+
+<!-- ════════════════════════════════════════════════════════════════
+     FOOTER — onda invertida fechando
+     ════════════════════════════════════════════════════════════════ -->
+<a href="#top"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f4692e,100:123458&height=120&section=footer" alt="footer"/></a>
