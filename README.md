@@ -191,11 +191,6 @@ Se tu chegou até aqui lendo de verdade, manda um **🎮** no meu LinkedIn — a
 <h2>📊 Estatísticas de combate</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GiovanniTrevisan&show_icons=true&count_private=true&hide_border=true&title_color=f4692e&icon_color=f4692e&text_color=F6F8FC&bg_color=123458" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniTrevisan&layout=compact&langs_count=8&count_private=true&hide_border=true&title_color=f4692e&text_color=F6F8FC&bg_color=123458" alt="top-langs"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=GiovanniTrevisan&hide_border=true&background=123458&stroke=f4692e&ring=f4692e&fire=f4692e&currStreakLabel=F6F8FC&sideLabels=F6F8FC&currStreakNum=F6F8FC&sideNums=F6F8FC&dates=F6F8FC" alt="streak"/>
 </p>
 
