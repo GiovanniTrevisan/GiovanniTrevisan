@@ -17,13 +17,13 @@ jobs:
     timeout-minutes: 5
     steps:
       - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#123458,#f4692e,#f4692e,#f4692e,#F6F8FC
+            dist/github-contribution-grid-snake.gif?color_snake=#f4692e&color_dots=#F6F8FC,#123458,#123458,#f4692e,#f4692e
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
